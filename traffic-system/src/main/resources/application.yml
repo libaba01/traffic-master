@@ -1,0 +1,11 @@
+spring:
+  application:
+    name:  #指定应用的名称，后续做微服务处理时，名字是应用的唯一标识
+  profiles:
+    active: dev   #使用其他的配置文件，如测试环境下的配置文件
+
+
+
+
+
+
